@@ -1,0 +1,804 @@
+game_id	away_team_name	away_team_score	home_team_name	home_team_score
+chattanooga-alabama	Chattanooga	3	Alabama	31	
+vanderbilt-auburn	Vanderbilt	16	Auburn	23	
+west-virginia-texas-tech	West Virginia	48	Texas Tech	17	
+uni-iowa-st	UNI	25	Iowa State	20	
+gardner-webb-ohio	Gardner-Webb	21	Ohio	37	
+boise-st-air-force	Boise State	20	Air Force	27	
+ole-miss-florida-st	Mississippi	34	Florida State	45	
+tennessee-texas-am	Tennessee	38	Texas A&M	45	
+rice-stanford	Rice	17	Stanford	41	
+georgia-st-south-ala	Georgia State	10	South Alabama	13	
+western-ky-middle-tenn	Western Ky.	44	Middle Tenn.	43	
+penn-st-indiana	Penn State	45	Indiana	31	
+uconn-east-carolina	Connecticut	3	East Carolina	41	
+troy-texas-st	Troy	40	Texas State	7	
+furman-coastal-caro	Furman	21	Coastal Caro.	41	
+tulsa-houston	Tulsa	31	Houston	38	
+mississippi-st-kentucky	Mississippi St.	38	Kentucky	40	
+virginia-georgia-tech	Virginia	17	Georgia Tech	31	
+troy-idaho	Troy	34	Idaho	13	
+new-mexico-st-troy	New Mexico St.	6	Troy	52	
+louisiana-tech-southern-miss	Louisiana Tech	24	Southern Miss	39	
+miami-fl-virginia	Miami (Fla.)	34	Virginia	14	
+auburn-alabama	Auburn	12	Alabama	30	
+washington-st-boise-st	Washington St.	28	Boise State	31	
+oklahoma-iowa-st	Oklahoma	34	Iowa State	24	
+arkansas-mississippi-st	Arkansas	58	Mississippi St.	42	
+washington-oregon	Washington	70	Oregon	21	
+smu-tulane	SMU	35	Tulane	31	
+nevada-unlv	Nevada	45	UNLV	10	
+tulsa-ucf	Tulsa	35	UCF	20	
+minnesota-illinois	Minnesota	40	Illinois	17	
+georgia-tech-boston-college	Georgia Tech	17	Boston College	14	
+ohio-tennessee	Ohio	19	Tennessee	28	
+ucf-east-carolina	UCF	47	East Carolina	29	
+eastern-mich-western-mich	Eastern Mich.	31	Western Mich.	45	
+utsa-texas-am	UTSA	10	Texas A&M	23	
+virginia-oregon	Virginia	26	Oregon	44	
+la-monroe-auburn	La.-Monroe	7	Auburn	58	
+florida-st-louisville	Florida State	20	Louisville	63	
+central-conn-st-coastal-caro	Cent. Conn. St.	25	Coastal Caro.	33	
+wisconsin-michigan	Wisconsin	7	Michigan	14	
+south-dakota-st-tcu	South Dakota St.	41	TCU	59	
+colorado-washington	Colorado	10	Washington	41	
+north-dakota-bowling-green	North Dakota	26	Bowling Green	27	
+georgia-south-carolina	Georgia	28	South Carolina	14	
+arizona-oregon-st	Arizona	17	Oregon State	42	
+fordham-navy	Fordham	16	Navy	52	
+south-fla-temple	South Florida	30	Temple	46	
+miami-oh-buffalo	Miami (Ohio)	35	Buffalo	24	
+boston-college-florida-st	Boston College	7	Florida State	45	
+charlotte-marshall	Charlotte	27	Marshall	24	
+central-mich-toledo	Cent. Michigan	17	Toledo	31	
+indiana-st-minnesota	Indiana State	28	Minnesota	58	
+utah-ucla	Utah	52	UCLA	45	
+lsu-wisconsin	LSU	14	Wisconsin	16	
+texas-kansas	Texas	21	Kansas	24	
+ball-st-buffalo	Ball State	31	Buffalo	21	
+nicholls-st-south-ala	Nicholls State	40	South Alabama	41	
+buffalo-northern-ill	Buffalo	7	Northern Ill.	44	
+texas-am-south-carolina	Texas A&M	24	South Carolina	13	
+akron-ball-st	Akron	35	Ball State	25	
+appalachian-st-tennessee	Appalachian St.	13	Tennessee	20	
+tennessee-tech-tennessee	Tennessee Tech	0	Tennessee	55	
+illinois-rutgers	Illinois	24	Rutgers	7	
+tcu-texas	TCU	31	Texas	9	
+miami-fl-north-carolina-st	Miami (Fla.)	27	NC State	13	
+idaho-unlv	Idaho	33	UNLV	30	
+washington-st-oregon-st	Washington St.	35	Oregon State	31	
+southern-utah-utah	Southern Utah	0	Utah	24	
+stanford-washington	Stanford	6	Washington	44	
+western-mich-ball-st	Western Mich.	52	Ball State	20	
+incarnate-word-texas-st	Incarnate Word	17	Texas State	48	
+massachusetts-troy	Massachusetts	31	Troy	52	
+hawaii-michigan	Hawaii	3	Michigan	63	
+south-ala-arkansas-st	South Alabama	7	Arkansas State	17	
+nicholls-st-georgia	Nicholls State	24	Georgia	26	
+utep-louisiana-tech	UTEP	7	Louisiana Tech	28	
+iowa-st-oklahoma-st	Iowa State	31	Oklahoma State	38	
+south-carolina-kentucky	South Carolina	10	Kentucky	17	
+memphis-smu	Memphis	51	SMU	7	
+vanderbilt-western-ky	Vanderbilt	31	Western Ky.	30	
+maryland-indiana	Maryland	36	Indiana	42	
+washington-st-stanford	Washington St.	42	Stanford	16	
+texas-st-arkansas	Texas State	3	Arkansas	42	
+michigan-st-indiana	Michigan State	21	Indiana	24	
+miami-oh-akron	Miami (Ohio)	13	Akron	35	
+ga-southern-western-mich	Ga. Southern	31	Western Mich.	49	
+massachusetts-south-carolina	Massachusetts	28	South Carolina	34	
+air-force-fresno-st	Air Force	31	Fresno State	21	
+arizona-st-arizona	Arizona State	35	Arizona	56	
+michigan-iowa	Michigan	13	Iowa	14	
+arkansas-st-texas-st	Arkansas State	36	Texas State	14	
+byu-utah	BYU	19	Utah	20	
+southern-miss-old-dominion	Southern Miss	35	Old Dominion	51	
+miami-oh-eastern-mich	Miami (Ohio)	28	Eastern Mich.	15	
+kentucky-alabama	Kentucky	6	Alabama	34	
+ucla-arizona-st	UCLA	20	Arizona State	23	
+baylor-rice	Baylor	38	Rice	10	
+missouri-lsu	Missouri	7	LSU	42	
+southern-california-ucla	USC	36	UCLA	14	
+south-carolina-st-clemson	S. Carolina St.	0	Clemson	59	
+fresno-st-toledo	Fresno State	17	Toledo	52	
+toledo-akron	Toledo	48	Akron	17	
+minnesota-penn-st	Minnesota	26	Penn State	29	
+ucf-uconn	UCF	24	Connecticut	16	
+florida-am-miami-fl	Florida A&M	3	Miami (Fla.)	70	
+oklahoma-texas-tech	Oklahoma	66	Texas Tech	59	
+ohio-st-oklahoma	Ohio State	45	Oklahoma	24	
+eastern-mich-ohio	Eastern Mich.	27	Ohio	20	
+southern-miss-north-texas	Southern Miss	23	North Texas	29	
+wake-forest-florida-st	Wake Forest	6	Florida State	17	
+toledo-western-mich	Toledo	35	Western Mich.	55	
+western-ky-louisiana-tech	Western Ky.	52	Louisiana Tech	55	
+missouri-west-virginia	Missouri	11	West Virginia	26	
+charlotte-fla-atlantic	Charlotte	28	Florida Atlantic	23	
+south-fla-memphis	South Florida	49	Memphis	42	
+east-carolina-south-carolina	East Carolina	15	South Carolina	20	
+east-carolina-south-fla	East Carolina	22	South Florida	38	
+georgia-tech-georgia	Georgia Tech	28	Georgia	27	
+temple-penn-st	Temple	27	Penn State	34	
+new-mexico-rutgers	New Mexico	28	Rutgers	37	
+texas-california	Texas	43	California	50	
+wake-forest-indiana	Wake Forest	33	Indiana	28	
+maine-toledo	Maine	3	Toledo	45	
+old-dominion-western-ky	Old Dominion	24	Western Ky.	59	
+tulsa-fresno-st	Tulsa	48	Fresno State	41	
+iowa-purdue	Iowa	49	Purdue	35	
+south-fla-cincinnati	South Florida	45	Cincinnati	20	
+virginia-tech-duke	Virginia Tech	24	Duke	21	
+nebraska-indiana	Nebraska	27	Indiana	22	
+nebraska-northwestern	Nebraska	24	Northwestern	13	
+maryland-fiu	Maryland	41	FIU	14	
+prairie-view-texas-am	Prairie View A&M	0	Texas A&M	67	
+florida-vanderbilt	Florida	13	Vanderbilt	6	
+fresno-st-colorado-st	Fresno State	0	Colorado State	37	
+air-force-utah-st	Air Force	27	Utah State	20	
+morgan-st-marshall	Morgan State	0	Marshall	62	
+wisconsin-purdue	Wisconsin	49	Purdue	20	
+montana-st-idaho	Montana State	17	Idaho	20	
+southern-california-washington	USC	26	Washington	13	
+elon-charlotte	Elon	14	Charlotte	47	
+idaho-washington-st	Idaho	6	Washington St.	56	
+la-monroe-georgia-st	La.-Monroe	37	Georgia State	23	
+san-diego-st-fresno-st	San Diego State	17	Fresno State	3	
+ut-martin-georgia-st	Tennessee-Martin	6	Georgia State	31	
+texas-oklahoma-st	Texas	31	Oklahoma State	49	
+syracuse-pittsburgh	Syracuse	61	Pittsburgh	76	
+utah-arizona-st	Utah	49	Arizona State	26	
+kansas-st-baylor	Kansas State	42	Baylor	21	
+oregon-utah	Oregon	30	Utah	28	
+michigan-michigan-st	Michigan	32	Michigan State	23	
+wagner-boston-college	Wagner	10	Boston College	42	
+kent-st-alabama	Kent State	0	Alabama	48	
+georgia-st-air-force	Georgia State	14	Air Force	48	
+oklahoma-st-baylor	Oklahoma State	24	Baylor	35	
+utsa-middle-tenn	UTSA	45	Middle Tenn.	25	
+san-jose-st-fresno-st	San Jose State	16	Fresno State	14	
+mississippi-st-byu	Mississippi St.	21	BYU	28	
+fresno-st-unlv	Fresno State	20	UNLV	45	
+albany-ny-buffalo	Albany	22	Buffalo	16	
+stanford-arizona	Stanford	34	Arizona	10	
+notre-dame-syracuse	Notre Dame	50	Syracuse	33	
+northwestern-st-baylor	N'western St.	7	Baylor	55	
+jackson-st-unlv	Jackson State	13	UNLV	63	
+arizona-ucla	Arizona	24	UCLA	45	
+texas-st-appalachian-st	Texas State	10	Appalachian St.	35	
+james-madison-north-carolina	James Madison	28	North Carolina	56	
+bethune-cookman-north-texas	Bethune-Cookman	20	North Texas	41	
+san-diego-st-wyoming	San Diego State	27	Wyoming	24	
+minnesota-wisconsin	Minnesota	17	Wisconsin	31	
+california-washington-st	California	21	Washington St.	56	
+arizona-st-southern-california	Arizona State	20	USC	41	
+wisconsin-northwestern	Wisconsin	21	Northwestern	7	
+ohio-st-maryland	Ohio State	62	Maryland	3	
+rutgers-washington	Rutgers	13	Washington	48	
+virginia-tech-north-carolina	Virginia Tech	34	North Carolina	3	
+louisville-boston-college	Louisville	52	Boston College	7	
+tennessee-st-vanderbilt	Tennessee State	17	Vanderbilt	35	
+georgia-st-idaho	Georgia State	12	Idaho	37	
+temple-navy	Temple	34	Navy	10	
+oklahoma-tcu	Oklahoma	52	TCU	46	
+penn-st-rutgers	Penn State	39	Rutgers	0	
+miami-fl-notre-dame	Miami (Fla.)	27	Notre Dame	30	
+arkansas-auburn	Arkansas	3	Auburn	56	
+colorado-stanford	Colorado	10	Stanford	5	
+ball-st-central-mich	Ball State	21	Cent. Michigan	24	
+new-mexico-hawaii	New Mexico		Hawaii		
+oregon-st-minnesota	Oregon State	23	Minnesota	30	
+prairie-view-rice	Prairie View A&M	44	Rice	65	
+utah-california	Utah	23	California	28	
+smu-temple	SMU	20	Temple	45	
+troy-clemson	Troy	24	Clemson	30	
+nebraska-ohio-st	Nebraska	3	Ohio State	62	
+maine-uconn	Maine	21	Connecticut	24	
+clemson-wake-forest	Clemson	35	Wake Forest	13	
+wake-forest-north-carolina-st	Wake Forest	16	NC State	33	
+south-carolina-st-louisiana-tech	S. Carolina St.	24	Louisiana Tech	53	
+ucf-fiu	UCF	53	FIU	14	
+byu-cincinnati	BYU	20	Cincinnati	3	
+cincinnati-tulsa	Cincinnati	37	Tulsa	40	
+texas-tech-arizona-st	Texas Tech	55	Arizona State	68	
+utsa-louisiana-tech	UTSA	35	Louisiana Tech	63	
+texas-tech-kansas-st	Texas Tech	38	Kansas State	44	
+colorado-southern-california	Colorado	17	USC	21	
+nevada-notre-dame	Nevada	10	Notre Dame	39	
+bowling-green-akron	Bowling Green	38	Akron	28	
+northern-ill-western-mich	Northern Ill.	30	Western Mich.	45	
+south-carolina-florida	South Carolina	7	Florida	20	
+buffalo-western-mich	Buffalo	0	Western Mich.	38	
+lsu-texas-am	LSU	54	Texas A&M	39	
+vanderbilt-missouri	Vanderbilt	17	Missouri	26	
+utsa-rice	UTSA	14	Rice	13	
+southern-miss-kentucky	Southern Miss	44	Kentucky	35	
+indiana-michigan	Indiana	10	Michigan	20	
+san-jose-st-boise-st	San Jose State	31	Boise State	45	
+illinois-nebraska	Illinois	16	Nebraska	31	
+toledo-northern-ill	Toledo	31	Northern Ill.	24	
+georgia-st-troy	Georgia State	21	Troy	31	
+middle-tenn-missouri	Middle Tenn.	51	Missouri	45	
+maryland-penn-st	Maryland	14	Penn State	38	
+washington-washington-st	Washington	45	Washington St.	17	
+texas-am-auburn	Texas A&M	29	Auburn	16	
+oklahoma-st-tcu	Oklahoma State	31	TCU	6	
+houston-navy	Houston	40	Navy	46	
+ole-miss-arkansas	Mississippi	30	Arkansas	34	
+duke-pittsburgh	Duke	14	Pittsburgh	56	
+troy-south-ala	Troy	28	South Alabama	21	
+western-caro-south-carolina	Western Caro.	31	South Carolina	44	
+houston-baptist-western-ky	Houston Baptist	3	Western Ky.	50	
+georgia-tech-pittsburgh	Georgia Tech	34	Pittsburgh	37	
+troy-ga-southern	Troy	24	Ga. Southern	28	
+indiana-rutgers	Indiana	33	Rutgers	27	
+kentucky-louisville	Kentucky	41	Louisville	38	
+ut-martin-hawaii	Tennessee-Martin		Hawaii		
+nevada-san-jose-st	Nevada	10	San Jose State	14	
+ohio-toledo	Ohio	31	Toledo	26	
+colorado-oregon	Colorado	41	Oregon	38	
+charleston-so-coastal-caro	Charleston So.	59	Coastal Caro.	58	
+iowa-rutgers	Iowa	14	Rutgers	7	
+kent-st-miami-oh	Kent State	14	Miami (Ohio)	18	
+monmouth-coastal-caro	Monmouth	17	Coastal Caro.	38	
+east-carolina-temple	East Carolina	10	Temple	37	
+tulane-wake-forest	Tulane	3	Wake Forest	7	
+oregon-st-stanford	Oregon State	15	Stanford	26	
+utah-san-jose-st	Utah	34	San Jose State	17	
+texas-tech-tcu	Texas Tech	27	TCU	24	
+fla-atlantic-fiu	Florida Atlantic	31	FIU	33	
+minnesota-nebraska	Minnesota	17	Nebraska	24	
+minnesota-maryland	Minnesota	31	Maryland	10	
+fla-atlantic-kansas-st	Florida Atlantic	7	Kansas State	63	
+san-jose-st-san-diego-st	San Jose State	3	San Diego State	42	
+missouri-south-carolina	Missouri	21	South Carolina	31	
+tulsa-ohio-st	Tulsa	3	Ohio State	48	
+utep-fla-atlantic	UTEP	31	Florida Atlantic	35	
+north-carolina-miami-fl	North Carolina	20	Miami (Fla.)	13	
+utsa-colorado-st	UTSA	14	Colorado State	23	
+michigan-ohio-st	Michigan	27	Ohio State	30	
+miami-fl-appalachian-st	Miami (Fla.)	45	Appalachian St.	10	
+idaho-washington	Idaho	14	Washington	59	
+oklahoma-st-kansas-st	Oklahoma State	43	Kansas State	37	
+new-mexico-colorado-st	New Mexico	31	Colorado State	49	
+wyoming-nebraska	Wyoming	17	Nebraska	52	
+southern-u-tulane	Southern Univ.	21	Tulane	66	
+stanford-ucla	Stanford	22	UCLA	13	
+kent-st-bowling-green	Kent State	7	Bowling Green	42	
+utah-st-southern-california	Utah State	7	USC	45	
+california-arizona-st	California	41	Arizona State	51	
+mississippi-st-ole-miss	Mississippi St.	55	Mississippi	20	
+charlotte-louisville	Charlotte	14	Louisville	70	
+nevada-hawaii	Nevada		Hawaii		
+fla-atlantic-middle-tenn	Florida Atlantic	56	Middle Tenn.	77	
+florida-lsu	Florida	16	LSU	10	
+ucla-texas-am	UCLA	24	Texas A&M	31	
+utah-st-boise-st	Utah State	10	Boise State	21	
+north-carolina-duke	North Carolina	27	Duke	28	
+tulane-tulsa	Tulane	27	Tulsa	50	
+baylor-texas	Baylor	34	Texas	35	
+hawaii-san-jose-st	Hawaii	34	San Jose State	17	
+eastern-mich-missouri	Eastern Mich.	21	Missouri	61	
+duke-miami-fl	Duke	21	Miami (Fla.)	40	
+missouri-tennessee	Missouri	37	Tennessee	63	
+memphis-tulane	Memphis	24	Tulane	14	
+fla-atlantic-marshall	Florida Atlantic	21	Marshall	27	
+new-mexico-new-mexico-st	New Mexico	31	New Mexico St.	32	
+louisville-marshall	Louisville	59	Marshall	28	
+north-texas-rice	North Texas	42	Rice	35	
+massachusetts-byu	Massachusetts	9	BYU	51	
+ball-st-georgia-st	Ball State	31	Georgia State	21	
+georgia-kentucky	Georgia	27	Kentucky	24	
+georgia-st-wisconsin	Georgia State	17	Wisconsin	23	
+temple-uconn	Temple	21	Connecticut	0	
+louisville-syracuse	Louisville	62	Syracuse	28	
+oregon-st-colorado	Oregon State	6	Colorado	47	
+arkansas-st-troy	Arkansas State	35	Troy	3	
+houston-baptist-utep	Houston Baptist	10	UTEP	42	
+texas-st-ohio	Texas State	56	Ohio	54	
+western-mich-kent-st	Western Mich.	37	Kent State	21	
+unlv-central-mich	UNLV	21	Cent. Michigan	44	
+kansas-memphis	Kansas	7	Memphis	43	
+wyoming-unlv	Wyoming	66	UNLV	69	
+oregon-california	Oregon	49	California	52	
+western-mich-northwestern	Western Mich.	22	Northwestern	21	
+byu-west-virginia	BYU	32	West Virginia	35	
+san-diego-st-south-ala	San Diego State	24	South Alabama	42	
+oregon-st-washington	Oregon State	17	Washington	41	
+presbyterian-south-ala	Presbyterian	7	South Alabama	31	
+miami-oh-cincinnati	Miami (Ohio)	20	Cincinnati	27	
+notre-dame-southern-california	Notre Dame	27	USC	45	
+rutgers-ohio-st	Rutgers	0	Ohio State	58	
+lsu-auburn	LSU	13	Auburn	18	
+old-dominion-appalachian-st	Old Dominion	7	Appalachian St.	31	
+arizona-washington-st	Arizona	7	Washington St.	69	
+louisiana-tech-massachusetts	Louisiana Tech	56	Massachusetts	28	
+hampton-old-dominion	Hampton	21	Old Dominion	54	
+west-virginia-texas	West Virginia	24	Texas	20	
+ucf-michigan	UCF	14	Michigan	51	
+tulsa-navy	Tulsa	40	Navy	42	
+southern-miss-utep	Southern Miss	34	UTEP	7	
+north-texas-utsa	North Texas	17	UTSA	31	
+ball-st-indiana	Ball State	20	Indiana	30	
+alabama-st-utsa	Alabama State	13	UTSA	26	
+nc-at-tulsa	N.C. A&T	21	Tulsa	58	
+iowa-st-texas	Iowa State	6	Texas	27	
+northern-colo-colorado-st	Northern Colo.	21	Colorado State	47	
+fiu-utep	FIU	35	UTEP	21	
+byu-boise-st	BYU	27	Boise State	28	
+toledo-eastern-mich	Toledo	35	Eastern Mich.	20	
+arkansas-tcu	Arkansas	41	TCU	38	
+byu-michigan-st	BYU	31	Michigan State	14	
+northern-ill-south-fla	Northern Ill.	17	South Florida	48	
+kent-st-central-mich	Kent State	27	Cent. Michigan	24	
+fresno-st-nebraska	Fresno State	10	Nebraska	43	
+alabama-am-middle-tenn	Alabama A&M	0	Middle Tenn.	55	
+kent-st-buffalo	Kent State	44	Buffalo	20	
+colorado-st-minnesota	Colorado State	24	Minnesota	31	
+northern-ariz-arizona-st	Northern Ariz.	13	Arizona State	44	
+memphis-cincinnati	Memphis	34	Cincinnati	7	
+virginia-tech-tennessee	Virginia Tech	24	Tennessee	45	
+vmi-akron	VMI	24	Akron	47	
+ut-martin-cincinnati	Tennessee-Martin	7	Cincinnati	28	
+western-ky-marshall	Western Ky.	60	Marshall	6	
+mississippi-st-lsu	Mississippi St.	20	LSU	23	
+oklahoma-houston	Oklahoma	23	Houston	33	
+jacksonville-st-lsu	Jacksonville St.	13	LSU	34	
+iowa-st-kansas	Iowa State	31	Kansas	24	
+southern-u-la-monroe	Southern Univ.	21	La.-Monroe	38	
+ucla-washington-st	UCLA	21	Washington St.	27	
+marshall-fiu	Marshall	14	FIU	31	
+nebraska-iowa	Nebraska	10	Iowa	40	
+eastern-mich-charlotte	Eastern Mich.	37	Charlotte	19	
+southeast-mo-st-memphis	Southeast Mo. St.	17	Memphis	35	
+purdue-maryland	Purdue	7	Maryland	50	
+north-carolina-st-clemson	NC State	17	Clemson	24	
+charlotte-southern-miss	Charlotte	38	Southern Miss	27	
+grambling-arizona	Grambling	21	Arizona	31	
+arizona-st-colorado	Arizona State	16	Colorado	40	
+purdue-minnesota	Purdue	31	Minnesota	44	
+utah-st-colorado-st	Utah State	24	Colorado State	31	
+appalachian-st-new-mexico-st	Appalachian St.	37	New Mexico St.	7	
+san-jose-st-iowa-st	San Jose State	10	Iowa State	44	
+massachusetts-hawaii	Massachusetts	40	Hawaii	46	
+texas-tech-iowa-st	Texas Tech	10	Iowa State	66	
+toledo-arkansas-st	Toledo	31	Arkansas State	10	
+murray-st-illinois	Murray State	3	Illinois	52	
+iowa-st-tcu	Iowa State	20	TCU	41	
+old-dominion-north-carolina-st	Old Dominion	22	NC State	49	
+california-southern-california	California	24	USC	45	
+notre-dame-texas	Notre Dame	47	Texas	50	
+utep-utsa	UTEP	52	UTSA	49	
+alabama-ole-miss	Alabama	48	Mississippi	43	
+utep-texas	UTEP	7	Texas	41	
+arkansas-missouri	Arkansas	24	Missouri	28	
+oklahoma-st-oklahoma	Oklahoma State	20	Oklahoma	38	
+wisconsin-iowa	Wisconsin	17	Iowa	9	
+oregon-nebraska	Oregon	32	Nebraska	35	
+ga-southern-georgia-st	Ga. Southern	24	Georgia State	30	
+central-mich-miami-oh	Cent. Michigan	17	Miami (Ohio)	37	
+south-carolina-clemson	South Carolina	7	Clemson	56	
+richmond-virginia	Richmond	37	Virginia	20	
+utep-rice	UTEP	24	Rice	44	
+baylor-oklahoma	Baylor	24	Oklahoma	45	
+stanford-oregon	Stanford	52	Oregon	27	
+charlotte-utsa	Charlotte	14	UTSA	33	
+south-carolina-st-ucf	S. Carolina St.	0	UCF	38	
+north-texas-florida	North Texas	0	Florida	32	
+houston-smu	Houston	16	SMU	38	
+ohio-kansas	Ohio	37	Kansas	21	
+stanford-notre-dame	Stanford	17	Notre Dame	10	
+virginia-wake-forest	Virginia	20	Wake Forest	27	
+northwestern-ohio-st	Northwestern	20	Ohio State	24	
+northwestern-minnesota	Northwestern	12	Minnesota	29	
+ucla-colorado	UCLA	10	Colorado	20	
+virginia-virginia-tech	Virginia	10	Virginia Tech	52	
+alabama-lsu	Alabama	10	LSU	0	
+memphis-navy	Memphis	28	Navy	42	
+southern-utah-byu	Southern Utah	7	BYU	37	
+ole-miss-lsu	Mississippi	21	LSU	38	
+presbyterian-central-mich	Presbyterian	3	Cent. Michigan	49	
+louisville-houston	Louisville	10	Houston	36	
+la-monroe-new-mexico	La.-Monroe	17	New Mexico	59	
+oregon-oregon-st	Oregon	24	Oregon State	34	
+florida-st-south-fla	Florida State	55	South Florida	35	
+furman-michigan-st	Furman	13	Michigan State	28	
+hawaii-fresno-st	Hawaii	14	Fresno State	13	
+cincinnati-temple	Cincinnati	13	Temple	34	
+new-mexico-st-idaho	New Mexico St.	23	Idaho	55	
+cal-poly-nevada	Cal Poly	27	Nevada	30	
+san-diego-st-utah-st	San Diego State	40	Utah State	13	
+smu-tulsa	SMU	40	Tulsa	43	
+hampton-coastal-caro	Hampton	7	Coastal Caro.	26	
+georgia-tech-virginia-tech	Georgia Tech	30	Virginia Tech	20	
+tennessee-vanderbilt	Tennessee	34	Vanderbilt	45	
+maryland-nebraska	Maryland	7	Nebraska	28	
+kansas-st-oklahoma	Kansas State	17	Oklahoma	38	
+utah-colorado	Utah	22	Colorado	27	
+mercer-georgia-tech	Mercer	10	Georgia Tech	35	
+iowa-illinois	Iowa	28	Illinois	0	
+navy-east-carolina	Navy	66	East Carolina	31	
+virginia-tech-notre-dame	Virginia Tech	34	Notre Dame	31	
+fiu-charlotte	FIU	27	Charlotte	26	
+southern-miss-utsa	Southern Miss	32	UTSA	55	
+duke-notre-dame	Duke	38	Notre Dame	35	
+savannah-st-southern-miss	Savannah State	0	Southern Miss	56	
+kansas-st-west-virginia	Kansas State	16	West Virginia	17	
+cincinnati-purdue	Cincinnati	38	Purdue	20	
+old-dominion-charlotte	Old Dominion	52	Charlotte	17	
+kansas-kansas-st	Kansas	19	Kansas State	34	
+kansas-st-stanford	Kansas State	13	Stanford	26	
+middle-tenn-marshall	Middle Tenn.	17	Marshall	42	
+west-virginia-iowa-st	West Virginia	49	Iowa State	19	
+florida-st-syracuse	Florida State	45	Syracuse	14	
+wyoming-nevada	Wyoming	42	Nevada	34	
+washington-st-colorado	Washington St.	24	Colorado	38	
+colgate-syracuse	Colgate	7	Syracuse	33	
+new-mexico-st-utep	New Mexico St.	22	UTEP	38	
+colorado-st-air-force	Colorado State	46	Air Force	49	
+northwestern-purdue	Northwestern	45	Purdue	17	
+notre-dame-north-carolina-st	Notre Dame	3	NC State	10	
+fla-atlantic-rice	Florida Atlantic	42	Rice	25	
+cincinnati-ucf	Cincinnati	3	UCF	24	
+nebraska-wisconsin	Nebraska	17	Wisconsin	23	
+ball-st-miami-oh	Ball State	20	Miami (Ohio)	21	
+la-monroe-ga-southern	La.-Monroe	21	Ga. Southern	23	
+vanderbilt-georgia-tech	Vanderbilt	7	Georgia Tech	38	
+ole-miss-vanderbilt	Mississippi	17	Vanderbilt	38	
+liberty-coastal-caro	Liberty	7	Coastal Caro.	42	
+florida-georgia	Florida	24	Georgia	10	
+arizona-st-washington	Arizona State	18	Washington	44	
+colorado-michigan	Colorado	28	Michigan	45	
+akron-buffalo	Akron	20	Buffalo	41	
+unlv-san-jose-st	UNLV	24	San Jose State	30	
+alabama-arkansas	Alabama	49	Arkansas	30	
+utsa-old-dominion	UTSA	19	Old Dominion	33	
+pittsburgh-virginia	Pittsburgh	45	Virginia	31	
+savannah-st-ga-southern	Savannah State	0	Ga. Southern	54	
+northern-ill-ball-st	Northern Ill.	31	Ball State	24	
+marshall-old-dominion	Marshall	14	Old Dominion	38	
+uconn-navy	Connecticut	24	Navy	28	
+boston-college-massachusetts	Boston College	26	Massachusetts	7	
+north-texas-utep	North Texas	24	UTEP	52	
+middle-tenn-fiu	Middle Tenn.	42	FIU	35	
+ucla-byu	UCLA	17	BYU	14	
+nc-central-western-mich	N.C. Central	21	Western Mich.	70	
+ga-southern-georgia-tech	Ga. Southern	24	Georgia Tech	35	
+florida-st-north-carolina-st	Florida State	24	NC State	20	
+massachusetts-old-dominion	Massachusetts	16	Old Dominion	36	
+hawaii-arizona	Hawaii	28	Arizona	47	
+east-carolina-tulsa	East Carolina	24	Tulsa	45	
+west-virginia-oklahoma-st	West Virginia	20	Oklahoma State	37	
+middle-tenn-north-texas	Middle Tenn.	30	North Texas	13	
+tcu-baylor	TCU	62	Baylor	22	
+clemson-georgia-tech	Clemson	26	Georgia Tech	7	
+southeastern-la-oklahoma-st	Southeastern La.	7	Oklahoma State	61	
+south-dakota-new-mexico	South Dakota	21	New Mexico	48	
+fiu-massachusetts	FIU	13	Massachusetts	21	
+idaho-appalachian-st	Idaho	19	Appalachian St.	37	
+san-jose-st-tulsa	San Jose State	10	Tulsa	45	
+purdue-indiana	Purdue	24	Indiana	26	
+oregon-st-ucla	Oregon State	24	UCLA	38	
+colorado-arizona	Colorado	49	Arizona	24	
+toledo-byu	Toledo	53	BYU	55	
+arkansas-texas-am	Arkansas	24	Texas A&M	45	
+ole-miss-texas-am	Mississippi	29	Texas A&M	28	
+idaho-texas-st	Idaho	47	Texas State	14	
+wisconsin-penn-st	Wisconsin	31	Penn State	38	
+navy-south-fla	Navy	45	South Florida	52	
+ga-southern-new-mexico-st	Ga. Southern	22	New Mexico St.	19	
+texas-am-alabama	Texas A&M	14	Alabama	33	
+iowa-st-iowa	Iowa State	3	Iowa	42	
+south-ala-la-monroe	South Alabama	35	La.-Monroe	42	
+northern-ill-wyoming	Northern Ill.	34	Wyoming	40	
+smu-baylor	SMU	13	Baylor	40	
+hawaii-air-force	Hawaii	34	Air Force	27	
+stony-brook-temple	Stony Brook	0	Temple	38	
+northern-ill-eastern-mich	Northern Ill.	31	Eastern Mich.	24	
+delaware-wake-forest	Delaware	21	Wake Forest	38	
+liberty-virginia-tech	Liberty	13	Virginia Tech	36	
+southern-california-arizona	USC	48	Arizona	14	
+smu-north-texas	SMU	34	North Texas	21	
+rice-charlotte	Rice	22	Charlotte	21	
+houston-cincinnati	Houston	40	Cincinnati	16	
+alabama-am-auburn	Alabama A&M	0	Auburn	55	
+rice-southern-miss	Rice	28	Southern Miss	44	
+pittsburgh-miami-fl	Pittsburgh	28	Miami (Fla.)	51	
+duke-louisville	Duke	14	Louisville	24	
+tcu-kansas	TCU	24	Kansas	23	
+new-mexico-st-kentucky	New Mexico St.	42	Kentucky	62	
+notre-dame-navy	Notre Dame	27	Navy	28	
+wyoming-eastern-mich	Wyoming	24	Eastern Mich.	27	
+purdue-nebraska	Purdue	14	Nebraska	27	
+texas-am-mississippi-st	Texas A&M	28	Mississippi St.	35	
+ohio-miami-oh	Ohio	17	Miami (Ohio)	7	
+arizona-utah	Arizona	23	Utah	36	
+eastern-ky-purdue	Eastern Kentucky	24	Purdue	45	
+rhode-island-kansas	Rhode Island	6	Kansas	55	
+appalachian-st-troy	Appalachian St.	24	Troy	28	
+boise-st-oregon-st	Boise State	38	Oregon State	24	
+tulane-ucf	Tulane	6	UCF	37	
+new-hampshire-san-diego-st	New Hampshire	0	San Diego State	31	
+charleston-so-florida-st	Charleston So.	8	Florida State	52	
+miami-oh-bowling-green	Miami (Ohio)	40	Bowling Green	26	
+nevada-new-mexico	Nevada	26	New Mexico	35	
+ga-southern-ole-miss	Ga. Southern	27	Mississippi	37	
+georgia-st-appalachian-st	Georgia State	3	Appalachian St.	17	
+illinois-st-northwestern	Illinois State	9	Northwestern	7	
+rutgers-michigan-st	Rutgers	0	Michigan State	49	
+colorado-st-san-diego-st	Colorado State	63	San Diego State	31	
+temple-memphis	Temple	27	Memphis	34	
+appalachian-st-ga-southern	Appalachian St.	34	Ga. Southern	10	
+houston-texas-st	Houston	64	Texas State	3	
+northwestern-michigan-st	Northwestern	54	Michigan State	40	
+rice-louisiana-tech	Rice	16	Louisiana Tech	61	
+wagner-massachusetts	Wagner	10	Massachusetts	34	
+akron-ohio	Akron	3	Ohio	9	
+old-dominion-fla-atlantic	Old Dominion	42	Florida Atlantic	24	
+kansas-st-iowa-st	Kansas State	31	Iowa State	26	
+austin-peay-kentucky	Austin Peay	13	Kentucky	49	
+delaware-st-missouri	Delaware State	0	Missouri	79	
+charlotte-temple	Charlotte	20	Temple	48	
+ball-st-fla-atlantic	Ball State	31	Florida Atlantic	27	
+penn-st-michigan	Penn State	10	Michigan	49	
+southern-california-stanford	USC	10	Stanford	27	
+miami-oh-iowa	Miami (Ohio)	21	Iowa	45	
+marshall-pittsburgh	Marshall	27	Pittsburgh	43	
+central-mich-eastern-mich	Cent. Michigan	21	Eastern Mich.	26	
+baylor-texas-tech	Baylor	35	Texas Tech	54	
+nc-at-kent-st	N.C. A&T	39	Kent State	36	
+uc-davis-oregon	UC Davis	28	Oregon	53	
+clemson-auburn	Clemson	19	Auburn	13	
+unlv-boise-st	UNLV	25	Boise State	42	
+oklahoma-st-kansas	Oklahoma State	44	Kansas	20	
+mississippi-val-eastern-mich	Miss. Valley St.	14	Eastern Mich.	61	
+virginia-duke	Virginia	34	Duke	20	
+kansas-texas-tech	Kansas	19	Texas Tech	55	
+alabama-tennessee	Alabama	49	Tennessee	10	
+tulane-uconn	Tulane	38	Connecticut	13	
+buffalo-ohio	Buffalo	10	Ohio	34	
+texas-st-la-monroe	Texas State	34	La.-Monroe	40	
+michigan-st-penn-st	Michigan State	12	Penn State	45	
+akron-kent-st	Akron	31	Kent State	27	
+eastern-ill-miami-oh	Eastern Illinois	21	Miami (Ohio)	17	
+central-mich-northern-ill	Cent. Michigan	34	Northern Ill.	28	
+arkansas-st-auburn	Arkansas State	14	Auburn	51	
+bowling-green-ohio	Bowling Green	24	Ohio	30	
+kansas-west-virginia	Kansas	21	West Virginia	48	
+maryland-michigan	Maryland	3	Michigan	59	
+rutgers-minnesota	Rutgers	32	Minnesota	34	
+howard-maryland	Howard	13	Maryland	52	
+alabama-florida	Alabama	54	Florida	16	
+kansas-oklahoma	Kansas	3	Oklahoma	56	
+vanderbilt-georgia	Vanderbilt	17	Georgia	16	
+central-mich-virginia	Cent. Michigan	35	Virginia	49	
+south-ala-idaho	South Alabama	31	Idaho	38	
+south-fla-smu	South Florida	35	SMU	27	
+ohio-kent-st	Ohio	14	Kent State	10	
+northern-ill-kent-st	Northern Ill.	31	Kent State	21	
+louisiana-tech-middle-tenn	Louisiana Tech	34	Middle Tenn.	38	
+northwestern-iowa	Northwestern	38	Iowa	31	
+ohio-central-mich	Ohio	20	Cent. Michigan	27	
+duke-georgia-tech	Duke	35	Georgia Tech	38	
+north-texas-western-ky	North Texas	7	Western Ky.	45	
+youngstown-st-west-virginia	Youngstown St.	21	West Virginia	38	
+syracuse-uconn	Syracuse	31	Connecticut	24	
+bowling-green-toledo	Bowling Green	35	Toledo	42	
+illinois-wisconsin	Illinois	3	Wisconsin	48	
+towson-south-fla	Towson	20	South Florida	56	
+austin-peay-troy	Austin Peay	17	Troy	57	
+virginia-tech-pittsburgh	Virginia Tech	39	Pittsburgh	36	
+miami-fl-georgia-tech	Miami (Fla.)	35	Georgia Tech	21	
+duke-northwestern	Duke	13	Northwestern	24	
+kentucky-florida	Kentucky	7	Florida	45	
+boston-college-virginia-tech	Boston College	0	Virginia Tech	49	
+navy-smu	Navy	75	SMU	31	
+middle-tenn-vanderbilt	Middle Tenn.	24	Vanderbilt	47	
+hawaii-san-diego-st	Hawaii	0	San Diego State	55	
+michigan-st-maryland	Michigan State	17	Maryland	28	
+akron-marshall	Akron	65	Marshall	38	
+la-monroe-appalachian-st	La.-Monroe	17	Appalachian St.	42	
+east-carolina-cincinnati	East Carolina	19	Cincinnati	31	
+auburn-georgia	Auburn	7	Georgia	13	
+ucf-south-fla	UCF	31	South Florida	48	
+bowling-green-northern-ill	Bowling Green	20	Northern Ill.	45	
+fiu-western-ky	FIU	21	Western Ky.	49	
+samford-mississippi-st	Samford	41	Mississippi St.	56	
+cincinnati-uconn	Cincinnati	9	Connecticut	20	
+arizona-st-oregon	Arizona State	35	Oregon	54	
+georgia-missouri	Georgia	28	Missouri	27	
+north-dakota-st-iowa	North Dakota St.	23	Iowa	21	
+utah-st-nevada	Utah State	37	Nevada	38	
+tulane-houston	Tulane	18	Houston	30	
+virginia-uconn	Virginia	10	Connecticut	13	
+washington-utah	Washington	31	Utah	24	
+southern-california-utah	USC	27	Utah	31	
+pittsburgh-clemson	Pittsburgh	43	Clemson	42	
+ga-southern-arkansas-st	Ga. Southern	26	Arkansas State	27	
+illinois-northwestern	Illinois	21	Northwestern	42	
+buffalo-boston-college	Buffalo	3	Boston College	35	
+nevada-purdue	Nevada	14	Purdue	24	
+uconn-houston	Connecticut	14	Houston	42	
+arkansas-st-georgia-st	Arkansas State	31	Georgia State	16	
+penn-st-pittsburgh	Penn State	39	Pittsburgh	42	
+louisiana-tech-fiu	Louisiana Tech	44	FIU	24	
+smu-east-carolina	SMU	55	East Carolina	31	
+wyoming-new-mexico	Wyoming	35	New Mexico	56	
+buffalo-bowling-green	Buffalo	19	Bowling Green	27	
+maryland-ucf	Maryland	30	UCF	24	
+abilene-christian-air-force	Abilene Christian	21	Air Force	37	
+unlv-ucla	UNLV	21	UCLA	42	
+middle-tenn-bowling-green	Middle Tenn.	41	Bowling Green	21	
+iowa-penn-st	Iowa	14	Penn State	41	
+clemson-boston-college	Clemson	56	Boston College	10	
+michigan-rutgers	Michigan	78	Rutgers	0	
+la-monroe-arkansas-st	La.-Monroe	10	Arkansas State	51	
+colorado-st-boise-st	Colorado State	23	Boise State	28	
+mississippi-st-massachusetts	Mississippi St.	47	Massachusetts	35	
+south-carolina-vanderbilt	South Carolina	13	Vanderbilt	10	
+howard-rutgers	Howard	14	Rutgers	52	
+ga-southern-south-ala	Ga. Southern	24	South Alabama	9	
+south-carolina-mississippi-st	South Carolina	14	Mississippi St.	27	
+western-ky-fla-atlantic	Western Ky.	52	Florida Atlantic	3	
+tennessee-south-carolina	Tennessee	21	South Carolina	24	
+stanford-california	Stanford	45	California	31	
+boston-college-wake-forest	Boston College	17	Wake Forest	14	
+ohio-st-wisconsin	Ohio State	30	Wisconsin	23	
+fla-atlantic-miami-fl	Florida Atlantic	10	Miami (Fla.)	38	
+marshall-north-texas	Marshall	21	North Texas	38	
+florida-am-coastal-caro	Florida A&M	10	Coastal Caro.	49	
+pittsburgh-oklahoma-st	Pittsburgh	38	Oklahoma State	45	
+georgia-ole-miss	Georgia	14	Mississippi	45	
+baylor-iowa-st	Baylor	45	Iowa State	42	
+missouri-florida	Missouri	14	Florida	40	
+new-mexico-st-arkansas-st	New Mexico St.	22	Arkansas State	41	
+new-mexico-st-south-ala	New Mexico St.	28	South Alabama	35	
+kentucky-tennessee	Kentucky	36	Tennessee	49	
+north-carolina-st-louisville	NC State	13	Louisville	54	
+kansas-st-tcu	Kansas State	30	TCU	6	
+indiana-northwestern	Indiana	14	Northwestern	24	
+boise-st-hawaii	Boise State	52	Hawaii	16	
+bryant-coastal-caro	Bryant	21	Coastal Caro.	31	
+arkansas-st-utah-st	Arkansas State	20	Utah State	34	
+new-mexico-st-texas-am	New Mexico St.	10	Texas A&M	52	
+idaho-la-monroe	Idaho	34	La.-Monroe	31	
+southern-miss-lsu	Southern Miss	10	LSU	45	
+fresno-st-nevada	Fresno State	22	Nevada	27	
+troy-southern-miss	Troy	37	Southern Miss	31	
+pittsburgh-north-carolina	Pittsburgh	36	North Carolina	37	
+oklahoma-west-virginia	Oklahoma	56	West Virginia	28	
+unlv-san-diego-st	UNLV	7	San Diego State	26	
+new-mexico-utah-st	New Mexico	24	Utah State	21	
+utah-oregon-st	Utah	19	Oregon State	14	
+tulsa-memphis	Tulsa	59	Memphis	30	
+uconn-south-fla	Connecticut	27	South Florida	42	
+north-carolina-st-north-carolina	NC State	28	North Carolina	21	
+la-monroe-oklahoma	La.-Monroe	17	Oklahoma	59	
+texas-st-georgia-st	Texas State	21	Georgia State	41	
+western-mich-akron	Western Mich.	41	Akron	0	
+colorado-st-unlv	Colorado State	42	UNLV	23	
+washington-california	Washington	66	California	27	
+monmouth-kent-st	Monmouth	7	Kent State	27	
+louisville-virginia	Louisville	32	Virginia	25	
+south-ala-mississippi-st	South Alabama	21	Mississippi St.	20	
+virginia-tech-syracuse	Virginia Tech	17	Syracuse	31	
+lsu-arkansas	LSU	38	Arkansas	10	
+air-force-wyoming	Air Force	26	Wyoming	35	
+clemson-florida-st	Clemson	37	Florida State	34	
+temple-tulane	Temple	31	Tulane	0	
+temple-ucf	Temple	26	UCF	25	
+wisconsin-michigan-st	Wisconsin	30	Michigan State	6	
+nc-central-duke	N.C. Central	6	Duke	49	
+eastern-mich-bowling-green	Eastern Mich.	28	Bowling Green	25	
+fiu-old-dominion	FIU	28	Old Dominion	42	
+buffalo-nevada	Buffalo	14	Nevada	38	
+tennessee-georgia	Tennessee	34	Georgia	31	
+kansas-baylor	Kansas	7	Baylor	49	
+florida-arkansas	Florida	10	Arkansas	31	
+tcu-west-virginia	TCU	10	West Virginia	34	
+navy-tulane	Navy	21	Tulane	14	
+florida-tennessee	Florida	28	Tennessee	38	
+rice-western-ky	Rice	14	Western Ky.	46	
+tcu-smu	TCU	33	SMU	3	
+wyoming-colorado-st	Wyoming	38	Colorado State	17	
+colorado-st-colorado	Colorado State	7	Colorado	44	
+purdue-illinois	Purdue	34	Illinois	31	
+memphis-ole-miss	Memphis	28	Mississippi	48	
+uc-davis-wyoming	UC Davis	22	Wyoming	45	
+boise-st-wyoming	Boise State	28	Wyoming	30	
+mississippi-st-alabama	Mississippi St.	3	Alabama	51	
+north-carolina-illinois	North Carolina	48	Illinois	23	
+southern-california-alabama	USC	6	Alabama	52	
+sacramento-st-fresno-st	Sacramento St.	3	Fresno State	31	
+kentucky-missouri	Kentucky	35	Missouri	21	
+syracuse-clemson	Syracuse	0	Clemson	54	
+western-ky-alabama	Western Ky.	10	Alabama	38	
+idaho-st-oregon-st	Idaho State	7	Oregon State	37	
+houston-memphis	Houston	44	Memphis	48	
+akron-wisconsin	Akron	10	Wisconsin	54	
+syracuse-wake-forest	Syracuse	9	Wake Forest	28	
+bowling-green-memphis	Bowling Green	3	Memphis	77	
+texas-texas-tech	Texas	45	Texas Tech	37	
+california-oregon-st	California	44	Oregon State	47	
+baylor-west-virginia	Baylor	21	West Virginia	24	
+idaho-st-colorado	Idaho State	7	Colorado	56	
+wofford-ole-miss	Wofford	13	Mississippi	38	
+southern-ill-fla-atlantic	Southern Ill.	30	Florida Atlantic	38	
+michigan-st-illinois	Michigan State	27	Illinois	31	
+texas-st-new-mexico-st	Texas State	10	New Mexico St.	50	
+washington-st-arizona-st	Washington St.	37	Arizona State	32	
+liberty-smu	Liberty	14	SMU	29	
+portland-st-san-jose-st	Portland State	35	San Jose State	66	
+central-mich-oklahoma-st	Cent. Michigan	30	Oklahoma State	27	
+portland-st-washington	Portland State	3	Washington	41	
+florida-st-miami-fl	Florida State	20	Miami (Fla.)	19	
+missouri-st-kansas-st	Missouri State	0	Kansas State	35	
+auburn-ole-miss	Auburn	40	Mississippi	29	
+louisville-clemson	Louisville	36	Clemson	42	
+north-carolina-virginia	North Carolina	35	Virginia	14	
+uconn-boston-college	Connecticut	0	Boston College	30	
+arizona-st-utsa	Arizona State	32	UTSA	28	
+michigan-st-notre-dame	Michigan State	36	Notre Dame	28	
+central-ark-arkansas-st	Central Ark.	28	Arkansas State	23	
+east-carolina-virginia-tech	East Carolina	17	Virginia Tech	54	
+old-dominion-utep	Old Dominion	31	UTEP	21	
+oregon-washington-st	Oregon	33	Washington St.	51	
+weber-st-utah-st	Weber State	6	Utah State	45	
+rutgers-maryland	Rutgers	13	Maryland	31	
+ball-st-toledo	Ball State	19	Toledo	37	
+western-ill-northern-ill	Western Illinois	28	Northern Ill.	23	
+syracuse-boston-college	Syracuse	28	Boston College	20	
+indiana-ohio-st	Indiana	17	Ohio State	38	
+tulane-massachusetts	Tulane	31	Massachusetts	24	
+san-jose-st-new-mexico	San Jose State	41	New Mexico	48	
+utah-st-wyoming	Utah State	28	Wyoming	52	
+illinois-michigan	Illinois	8	Michigan	41	
+florida-florida-st	Florida	13	Florida State	31	
+eastern-mich-ball-st	Eastern Mich.	48	Ball State	41	
+south-fla-syracuse	South Florida	45	Syracuse	20	
+oregon-southern-california	Oregon	20	USC	45	
+navy-air-force	Navy	14	Air Force	28	
+western-mich-ohio	Western Mich.	29	Ohio	23	
+louisiana-tech-arkansas	Louisiana Tech	20	Arkansas	21	
+western-mich-illinois	Western Mich.	34	Illinois	10	
+north-carolina-st-syracuse	NC State	35	Syracuse	20	
+georgia-tech-north-carolina	Georgia Tech	20	North Carolina	48	
+kent-st-penn-st	Kent State	13	Penn State	33	
+wake-forest-duke	Wake Forest	24	Duke	14	
+appalachian-st-akron	Appalachian St.	45	Akron	38	
+california-san-diego-st	California	40	San Diego State	45	
+auburn-mississippi-st	Auburn	38	Mississippi St.	14	
+massachusetts-florida	Massachusetts	7	Florida	24	
+marshall-southern-miss	Marshall	14	Southern Miss	24	
+washington-arizona	Washington	35	Arizona	28	
+louisiana-tech-north-texas	Louisiana Tech	45	North Texas	24	
+boston-college-north-carolina-st	Boston College	21	NC State	14	
+villanova-pittsburgh	Villanova	7	Pittsburgh	28	
+western-mich-central-mich	Western Mich.	49	Cent. Michigan	10	
+unlv-hawaii	UNLV		Hawaii		
+texas-kansas-st	Texas	21	Kansas State	24	
+eastern-ky-ball-st	Eastern Kentucky	14	Ball State	41	
+san-diego-st-nevada	San Diego State	46	Nevada	16	
+texas-tech-oklahoma-st	Texas Tech	44	Oklahoma State	45	
+western-ky-miami-oh	Western Ky.	31	Miami (Ohio)	24	
+middle-tenn-charlotte	Middle Tenn.	38	Charlotte	31	
+ohio-st-michigan-st	Ohio State	17	Michigan State	16	
+ucf-houston	UCF	24	Houston	31	
+louisiana-tech-texas-tech	Louisiana Tech	45	Texas Tech	59	
+vanderbilt-kentucky	Vanderbilt	13	Kentucky	20	
+clemson-virginia-tech	Clemson	42	Virginia Tech	35	
+fresno-st-utah-st	Fresno State	20	Utah State	38	
+ucla-california	UCLA	10	California	36	
+miami-fl-virginia-tech	Miami (Fla.)	16	Virginia Tech	37	
+san-diego-st-northern-ill	San Diego State	42	Northern Ill.	28	
+boise-st-new-mexico	Boise State	49	New Mexico	21	
+wake-forest-louisville	Wake Forest	12	Louisville	44	
+bowling-green-ohio-st	Bowling Green	10	Ohio State	77	
+north-carolina-florida-st	North Carolina	37	Florida State	35	
+eastern-wash-washington-st	Eastern Wash.	45	Washington St.	42	
+utah-st-byu	Utah State	10	BYU	28	
+louisiana-tech-western-ky	Louisiana Tech	44	Western Ky.	58	
+iowa-minnesota	Iowa	14	Minnesota	7	
+ohio-st-penn-st	Ohio State	21	Penn State	24	
+air-force-san-jose-st	Air Force	41	San Jose State	38	
+penn-st-purdue	Penn State	62	Purdue	24	
+indiana-fiu	Indiana	34	FIU	13	
