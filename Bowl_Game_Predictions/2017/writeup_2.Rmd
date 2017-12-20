@@ -1,0 +1,106 @@
+---
+title: "2017 Bowl Predictions"
+author: "Meyappan Subbaiah"
+date: "December 10, 2017"
+output: 
+  github_document:
+    toc: true
+---
+
+Last year at work, I was part of the college bowl pick'em. Nothing new, I used to do the CFB bowl pick'ems with my college roommates and others. But last year, I decided to scrape the data and use different Machine Learning (ML) algorithms to predict winners. 
+
+Note: I treated this as a classification problem, 1 - Win, 0 - Lose. For those curious about the ML algorithms and the parameters selected, I'll be writing up a follow-up post. Should be out soon. 
+
+## Bowl Predictions
+
+Prediction ac curacies will be updated as bowl season progresses. I'm going to include 4 different set of predictions:    
+1. Personal picks,    
+2. Algorithm 1 - Random forest,    
+3. Algorithm 2 - XGBoost,   
+4. Algorithm 3 - Support Vector Machines (SVM)
+
+Let's look at what each algorithm thinks is important. These were all the possible stats available for all 128 teams in NCAA-FBS (Division I). 
+
+```{r,echo=FALSE,message=FALSE}
+library(tidyverse)
+team_stats <- read_tsv(file="data/tstats_data.tsv") %>% 
+  filter(stats != 'Stat') %>% select(team,stats,value) %>% 
+  spread(stats, value)
+colnames(team_stats)[23] <- "T.O.P"
+print(colnames(team_stats)[-1])
+```
+
+## Algorithm 1 - Random Forest vs. Algorithm 2 - XGboost
+
+Random Forests (RF) are an ensemble learning method using decision trees. The model has the capability to select and identify the important variables. XGboost is an *extreme gradient boosting* method applied to decision trees. Similarly to RF it also has the capability to identify important variables. 
+
+Let's see what we've got here. 
+
+```{r plots, echo=FALSE,fig.width=12}
+var_df <- readRDS("data/final/var_df.RDS")
+
+pd <- var_df %>%
+  group_by(model) %>%
+  top_n(10, abs(scaled_importance)) %>% 
+  ungroup() %>%
+  arrange(model, -scaled_importance) %>%
+  mutate(order = row_number())
+
+ggplot(pd, aes(x = order, y = scaled_importance)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  # Free the scales here
+  facet_wrap(~ model, scales = "free") +
+  theme_bw() +
+  coord_flip() + scale_x_reverse(breaks = pd$order,
+    labels = pd$variable,
+    expand = c(0,0)) + labs(title="Variable Importance",x="Variable Name",y="")
+``` 
+
+Before we dive into this, the models were run to classify/predict whether the home team wins. Above we see the top 10 stats that each model thinks is important to predict home team wins. They both tend to cover the same spectrum, interestingly enough XGB doesn't consider the home_turnover_margin in the top 10 variables. 
+
+I'd say overall, it tends to do a good job since it captures **(1) turnovers, (2) offensive capabillity, (3) special teams (field position), and (4) clutch conversions (third down %)**. You can also argue/point out that it captures defense since turnovers and the number of total yards the other team gains. 
+
+For Support Vector Machines (Algorithm 3 - SVM), they are a bit more complex, and hence don't provide straight forward variable importances. If you want some more detail on this, look for the follow up post. 
+
+Anyways let's take a look at the predictions.  
+
+## Predictions
+
+```{r,message=FALSE,echo=FALSE}
+library(knitr)
+library(kableExtra)
+bowl_preds <- readRDS("data/final/final_bowl_predictions.RDS")
+bowl_preds_final <- bowl_preds %>% 
+  mutate(
+    rf_predict = ifelse(rf_predict==1,home_team,away_team),
+    rf_conf = sprintf("%0.2f", rf_conf),
+    xg_predict = ifelse(xg_predict==1,home_team,away_team),
+    xg_conf = sprintf("%0.2f", xg_conf),
+    svm_pred = ifelse(svm_pred==1,home_team,away_team),
+    svm_conf = sprintf("%0.2f", svm_conf)
+  )
+bowl_preds_final$Actual <- c("Troy","Georgia St.","Boise St.","Marshall","Fla. Atlantic",rep("TBD",nrow(bowl_preds_final)-5))
+names_spaced <- c("Away Team","Home Team","Algorithm 1","A1 - Confidence",
+                                     "Algorithm 2","A2 - Confidence","Algorithm 3","A3 - Confidence","Actual")
+bowl_preds_final %>% 
+  mutate(
+    rf_predict = cell_spec(rf_predict, "html", color = ifelse(Actual=="TBD","grey",ifelse(rf_predict==Actual,"green","red"))),
+    xg_predict = cell_spec(xg_predict, "html", color = ifelse(Actual=="TBD","grey",ifelse(xg_predict==Actual,"green","red"))),
+    svm_pred = cell_spec(svm_pred, "html", color = ifelse(Actual=="TBD","grey",ifelse(svm_pred==Actual,"green","red")))
+  ) %>% 
+  kable("html", escape = F,col.names = names_spaced) %>%
+  kable_styling("hover", full_width = F,font_size = 10) %>% 
+  row_spec(0, bold = T, color = "white", background = "#D7261E")
+```
+
+
+Yikes, looks like Algorithm 1 and 3 aren't doing so hot right now. While Algorithm 2 is performing just fine. Let's see how the rest of bowl season goes!
+
+Note, the confidence of each prediction is also provided using the probability the model provided in predicting a home win or away win. I'll update this 
+
+I'm quite unhappy with a few picks:    
+(1) UCLA over Kansas St, I'm a huge Bill Synder fan.   
+(2) TCU over Stanford, picking against the ground game of Stanford?   
+(3) Also the confidence in Bama beating Clemson, scares me. 99% for XGB? JEEZ    
+
+I wish I had some conference and scheduled based statistics as well. I'd love to incorporate SOS, power-5 opponents, etc. There are probably a million different things that can be useful. As I continue this yearly, I'll look for more statistics to include. Let me know if you think there are any that I should consider! 
