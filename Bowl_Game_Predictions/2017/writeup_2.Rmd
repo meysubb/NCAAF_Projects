@@ -79,7 +79,7 @@ bowl_preds_final <- bowl_preds %>%
     svm_pred = ifelse(svm_pred==1,home_team,away_team),
     svm_conf = sprintf("%0.2f", svm_conf)
   )
-bowl_preds_final$Actual <- c("Troy","Georgia St.","Boise St.","Marshall","Fla. Atlantic",rep("TBD",nrow(bowl_preds_final)-5))
+bowl_preds_final$Actual <- c("Troy","Georgia St.","Boise St.","Marshall","Fla. Atlantic","Louisiana Tech",rep("TBD",nrow(bowl_preds_final)-6))
 names_spaced <- c("Away Team","Home Team","Algorithm 1","A1 - Confidence",
                                      "Algorithm 2","A2 - Confidence","Algorithm 3","A3 - Confidence","Actual")
 bowl_preds_final %>% 
