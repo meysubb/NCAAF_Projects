@@ -60,7 +60,7 @@ Before we dive into this, the models were run to classify/predict whether the ho
 
 I'd say overall, it tends to do a good job since it captures **(1) turnovers, (2) offensive capabillity, (3) special teams (field position), and (4) clutch conversions (third down %)**. You can also argue/point out that it captures defense since turnovers and the number of total yards the other team gains. 
 
-For Support Vector Machines (Algorithm 3 - SVM), they are a bit more complex, and hence don't provide straight forward variable importances. If you want some more detail on this, look for the follow up post. 
+For Support Vector Machines (Algorithm 3 - SVM), they are a bit more complex, and hence don't provide straight forward variable importance. If you want some more detail on this, look for the follow up post. 
 
 Anyways let's take a look at the predictions.  
 
@@ -79,7 +79,13 @@ bowl_preds_final <- bowl_preds %>%
     svm_pred = ifelse(svm_pred==1,home_team,away_team),
     svm_conf = sprintf("%0.2f", svm_conf)
   )
-bowl_preds_final$Actual <- c("Troy","Georgia St.","Boise St.","Marshall","Fla. Atlantic","Louisiana Tech",rep("TBD",nrow(bowl_preds_final)-6))
+bowl_preds_final$Actual <- c("Troy","Georgia St.","Boise St.","Marshall","Fla. Atlantic","Louisiana Tech",
+                             "Temple","Ohio","Wyoming","South Fla.","Army West Point","Appalachian St.",
+                             "Fresno St.","Utah","Duke","Kansas St.","Florida St.","Iowa","Purdue",
+                             "Texas","Navy","Oklahoma St.","TCU","Michigan St.","Wake Forest",
+                             "Northwestern","New Mexico St.","Ohio St.","Mississippi St.","Iowa St.",
+                             "Penn St.","Wisconsin","South Carolina","UCF","Notre Dame","Georgia",
+                             "Alabama")
 names_spaced <- c("Away Team","Home Team","Algorithm 1","A1 - Confidence",
                                      "Algorithm 2","A2 - Confidence","Algorithm 3","A3 - Confidence","Actual")
 bowl_preds_final %>% 
@@ -93,9 +99,6 @@ bowl_preds_final %>%
   row_spec(0, bold = T, color = "white", background = "#D7261E")
 ```
 
-
-Yikes, looks like Algorithm 1 and 3 aren't doing so hot right now. While Algorithm 2 is performing just fine. Let's see how the rest of bowl season goes!
-
 Note, the confidence of each prediction is also provided using the probability the model provided in predicting a home win or away win. I'll update this 
 
 I'm quite unhappy with a few picks:    
@@ -104,3 +107,13 @@ I'm quite unhappy with a few picks:
 (3) Also the confidence in Bama beating Clemson, scares me. 99% for XGB? JEEZ    
 
 I wish I had some conference and scheduled based statistics as well. I'd love to incorporate SOS, power-5 opponents, etc. There are probably a million different things that can be useful. As I continue this yearly, I'll look for more statistics to include. Let me know if you think there are any that I should consider! 
+
+## Final Results 
+
+Algorithm 1 - 16/37 = 43.2%  
+Algorithm 2 - 21/37 = 56.7%   
+Algorithm 3 - 15/37 = 43.2%   
+
+None of these are truly fantastic. I would like to break the 60% threshold. Just like last year, there's a lot left to learn going forward. I'll take a stab at this again for the 2018 bowl season. So long folks! 
+
+Congrats to Alabama! TUAAAAAAAA!
