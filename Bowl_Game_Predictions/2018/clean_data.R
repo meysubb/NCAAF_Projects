@@ -83,6 +83,12 @@ g_stats <- read.csv(file="data/raw_data/game_data_18.tsv",sep="\t",header=TRUE,
                        na.strings="?",row.names = NULL,stringsAsFactors = FALSE)
 g_scores <- read.csv(file="data/raw_data/game_score_18.tsv", sep="\t", header=TRUE, 
                         na.strings="?",row.names = NULL,stringsAsFactors = FALSE)
+g_stats <- g_stats %>% mutate(
+  row.names = paste0(row.names,"_2018")
+)
+g_scores <- g_scores %>% mutate(
+  row.names = paste0(row.names,"_2018")
+)
 
 dat_18 <- clean_dat(t_stats,r_data,g_stats,g_scores)
 
@@ -92,6 +98,13 @@ g_stats <- read.csv(file="data/raw_data/game_data_17.tsv",sep="\t",header=TRUE,
                        na.strings="?",row.names = NULL,stringsAsFactors = FALSE)
 g_scores <- read.csv(file="data/raw_data/game_score_17.tsv", sep="\t", header=TRUE, 
                         na.strings="?",row.names = NULL,stringsAsFactors = FALSE)
+g_stats <- g_stats %>% mutate(
+  row.names = paste0(row.names,"_2017")
+)
+g_scores <- g_scores %>% mutate(
+  row.names = paste0(row.names,"_2017")
+)
+
 dat_17 <- clean_dat(t_stats,r_data,g_stats,g_scores)
 
 t_stats <- read_tsv(file="data/raw_data/tstats_data_16.tsv") 
@@ -100,6 +113,14 @@ g_stats <- read.csv(file="data/raw_data/game_data_16.tsv",sep="\t",header=TRUE,
                     na.strings="?",row.names = NULL,stringsAsFactors = FALSE)
 g_scores <- read.csv(file="data/raw_data/game_score_16.tsv", sep="\t", header=TRUE, 
                      na.strings="?",row.names = NULL,stringsAsFactors = FALSE)
+g_stats <- g_stats %>% mutate(
+  row.names = paste0(row.names,"_2016")
+)
+g_scores <- g_scores %>% mutate(
+  row.names = paste0(row.names,"_2016")
+)
+
+
 dat_16 <- clean_dat(t_stats,r_data,g_stats,g_scores)
 
 

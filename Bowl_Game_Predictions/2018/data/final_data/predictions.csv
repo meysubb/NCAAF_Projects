@@ -1,0 +1,40 @@
+,Date,Time,Bowl,Team1,Team2,Team2_win_RF,Team2_win_log,Team2_win_SVM
+0,2019-01-01,8:45 PM,Sugar Bowl,Georgia,Texas,0.0042,0.018,0.027
+1,2019-01-01,5:00 PM,Rose Bowl,Ohio St.,Washington,0.2465,0.451,0.461
+2,2019-01-01,1:00 PM,Citrus Bowl,Kentucky,Penn St.,0.7768,0.612,0.607
+3,2019-01-01,1:00 PM,Fiesta Bowl,UCF,LSU,0.0162,0.016,0.011
+4,2019-01-01,12:00 PM,Outback Bowl,Iowa,Mississippi St.,0.6731,0.45,0.429
+5,2018-12-31,7:30 PM,Gator Bowl,NC State,Texas A&M,0.8717,0.886,0.872
+6,2018-12-31,7:00 PM,Holiday Bowl,Northwestern,Utah,0.9584,0.97,0.952
+7,2018-12-31,3:45 PM,Liberty Bowl,Missouri,Oklahoma State,0.5388,0.581,0.587
+8,2018-12-31,3:00 PM,Redbox Bowl,Michigan State,Oregon,0.8777,0.865,0.883
+9,2018-12-31,2:00 PM,Sun Bowl,Pittsburgh,Stanford,0.4705,0.638,0.681
+10,2018-12-31,12:00 PM,Military Bowl,Cincinnati,Virginia Tech,0.1606,0.218,0.218
+11,2018-12-29,8:00 PM,Orange Bowl,Alabama,Oklahoma,0.5682,0.874,0.932
+12,2018-12-29,4:00 PM,Cotton Bowl,Clemson,Notre Dame,0.3678,0.304,0.332
+13,2018-12-29,1:15 PM,Arizona Bowl,Arkansas State,Nevada,0.2634,0.313,0.306
+14,2018-12-29,12:00 PM,Belk Bowl,South Carolina,Virginia,0.5838,0.829,0.819
+15,2018-12-29,12:00 PM,Peach Bowl,Florida,Michigan,0.6756,0.855,0.889
+16,2018-12-28,9:00 PM,Alamo Bowl,Iowa State,Washington St.,0.8688,0.78,0.81
+17,2018-12-28,5:15 PM,Camping World Bowl,Syracuse,West Virginia,0.7873,0.955,0.968
+18,2018-12-28,1:30 PM,Music City Bowl,Auburn,Purdue,0.7515,0.742,0.779
+19,2018-12-27,9:00 PM,Texas Bowl,Baylor,Vanderbilt,0.6003,0.73,0.727
+20,2018-12-27,5:15 PM,Pinstripe Bowl,Miami (Fla.),Wisconsin,0.9021,0.771,0.799
+21,2018-12-27,1:30 PM,Independence Bowl,Duke,Temple,0.814,0.931,0.92
+22,2018-12-26,9:00 PM,Cheez-It Bowl,California,TCU,0.5305,0.698,0.637
+23,2018-12-26,5:15 PM,Quick Lane Bowl,Georgia Tech,Minnesota,0.0782,0.08,0.102
+24,2018-12-26,1:30 PM,First Responder Bowl,Boise State,Boston College,0.3231,0.122,0.116
+25,2018-12-22,10:30 PM,Hawaii Bowl,Hawaii,Louisiana Tech,0.1073,0.295,0.247
+26,2018-12-22,7:00 PM,Dollar General Bowl,Buffalo,Troy,0.278,0.243,0.235
+27,2018-12-22,3:30 PM,Armed Forces Bowl,Army,Houston,0.9999,0.985,0.964
+28,2018-12-22,12:00 PM,Birmingham Bowl,Memphis,Wake Forest,0.1153,0.18,0.136
+29,2018-12-21,4:00 PM,Famous Idaho Potato Bowl,BYU,Western Mich.,0.9757,0.854,0.846
+30,2018-12-21,12:30 PM,Bahamas Bowl,FIU,Toledo,0.5705,0.182,0.205
+31,2018-12-20,8:00 PM,Bad Boy Mowers Gasparilla Bowl,Marshall,South Florida,0.843,0.601,0.58
+32,2018-12-19,8:00 PM,Frisco Bowl,Ohio,San Diego State,0.0044,0.0,0.001
+33,2018-12-18,7:00 PM,Boca Raton Bowl,UAB,Northern Ill.,0.0488,0.024,0.02
+34,2018-12-15,9:00 PM,New Orleans Bowl,Appalachian St.,Middle Tenn.,0.0819,0.156,0.177
+35,2018-12-15,5:30 PM,Camellia Bowl,Eastern Mich.,Ga. Southern,0.9024,0.937,0.942
+36,2018-12-15,3:30 PM,Las Vegas Bowl,Arizona St.,Fresno State,0.4834,0.613,0.625
+37,2018-12-15,2:00 PM,New Mexico Bowl,North Texas,Utah State,0.6378,0.68,0.71
+38,2018-12-15,1:30 PM,AutoNation Cure Bowl,Louisiana,Tulane,0.937,0.192,0.192
